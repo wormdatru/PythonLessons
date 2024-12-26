@@ -1,4 +1,4 @@
-person = {"name": "Alice", "age": 25, "city": "New York"}
+person = {"name": "Alice", "age": 25, "city": "New York usa"}
 
 # Access dictionary values
 print(person["name"])
